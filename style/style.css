@@ -1,0 +1,42 @@
+#container{
+    height: 500px;
+    width: 900px;
+    background-color: blue;
+    margin: 40px;
+    
+}
+
+#banner{
+    height: 200px;
+    width: 900px;
+    background-color: yellow;
+}
+
+#meun{
+    height: 50px;
+    width: 900px;
+    background-color: red;
+}
+
+#content_area{
+    height: 250px;
+    width: 500px;
+    background-color: aqua;
+    float: right;
+}
+
+#sidebar{
+    height: 250px;
+    width: 400px;
+    background-color: green;
+    float: left;
+}
+
+#footer{
+    height: 50px;
+    width: 900px;
+    background-color: black;
+    text-align: center;
+    font-color: white;
+    clear: both;
+}
